@@ -85,7 +85,19 @@ EduBridge AI is a comprehensive educational platform designed to address educati
 - ✅ Priority support
 - ✅ Advanced features
 
----
+<img width="1920" height="1080" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/e4ad1aeb-25e9-48aa-8470-19684bd4555f" />
+
+
+- <img width="1920" height="1080" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/377951d9-7636-46c4-9e10-d9d0f3e2d7b3" />
+
+
+<img width="1920" height="1080" alt="Screenshot (104)" src="https://github.com/user-attachments/assets/b35ab86b-90b6-4515-b344-2fa104061f91" />
+
+<img width="1920" height="1080" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/99504bfc-fa6b-4f86-9c47-be8f397eb58c" />
+
+<img width="1920" height="1080" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/98fb0ce3-6760-4544-9929-029884463e16" />
+<img width="1920" height="1080" alt="Screenshot (104)" src="https://github.com/user-attachments/assets/b68330d1-4785-4059-9977-e710e22fa9d2" />
+
 
 ### 👨‍🏫 Teacher Dashboard
 
@@ -132,7 +144,18 @@ EduBridge AI is a comprehensive educational platform designed to address educati
 - Collaborate with educators across Africa
 - Rate and comment on resources
 
----
+
+<img width="1920" height="1080" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/839634d6-83b6-42b5-b130-ff6f7abcf867" />
+<img width="1920" height="1080" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/545b064d-1729-4c1b-831f-7b3a79fbeeeb" />
+
+<img width="1920" height="1080" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/28aa43ba-0f88-4255-8d0e-d30dbceca865" />
+
+<img width="1920" height="1080" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/d72b24a3-b9f2-4cea-9129-2c6574f40b66" />
+
+<img width="1920" height="1080" alt="Screenshot (116)" src="https://github.com/user-attachments/assets/8b1328f0-a455-4675-a71f-224b961a950d" />
+
+<img width="1920" height="1080" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/b9e9a702-0985-44bd-a0fd-b4d9dd7942bd" />
+
 
 ## 🌍 African Context
 
