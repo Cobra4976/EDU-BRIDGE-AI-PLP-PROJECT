@@ -1,0 +1,106 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* 🌿 Clean Green + White Theme */
+:root {
+  --bg-color: #f9fdf9;
+  --card-color: #ffffff;
+  --accent-color: #2e7d32;
+  --accent-hover: #43a047;
+  --border-color: #c8e6c9;
+  --text-color: #1b1b1b;
+
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color-scheme: light;
+  color: var(--text-color);
+  background-color: var(--bg-color);
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  justify-content: center;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+} */
+
+a {
+  font-weight: 500;
+  color: var(--accent-color);
+  text-decoration: none;
+}
+a:hover {
+  color: var(--accent-hover);
+}
+
+h1 {
+  font-size: 2.5em;
+  line-height: 1.1;
+  color: var(--accent-color);
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid var(--accent-color);
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: var(--accent-color);
+  color: #ffffff;
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+button:hover {
+  background-color: var(--accent-hover);
+}
+button:focus,
+button:focus-visible {
+  outline: 3px solid var(--accent-hover);
+  outline-offset: 2px;
+}
+
+.card {
+  background-color: var(--card-color);
+  border: 1px solid var(--border-color);
+  border-radius: 1rem;
+  box-shadow: 0 2px 10px rgba(46, 125, 50, 0.1);
+  padding: 2rem;
+  width: 100%;
+  max-width: 400px;
+  transition: box-shadow 0.3s ease;
+}
+.card:hover {
+  box-shadow: 0 4px 20px rgba(46, 125, 50, 0.15);
+}
+
+input, select, textarea {
+  width: 100%;
+  padding: 0.6em;
+  margin-top: 0.5em;
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  background-color: #ffffff;
+  color: var(--text-color);
+  outline: none;
+  transition: border-color 0.2s ease;
+}
+input:focus, select:focus, textarea:focus {
+  border-color: var(--accent-color);
+}
+@layer utilities {
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
