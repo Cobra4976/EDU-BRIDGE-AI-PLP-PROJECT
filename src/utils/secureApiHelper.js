@@ -1,7 +1,7 @@
 // src/utils/secureApiHelper.js
 import { getAuth } from 'firebase/auth';
 
-const API_BASE_URL = 'http://localhost:3001';
+const API_BASE_URL = import.meta.env.VITE_BACKEND_URL ;
 // For local development, use: const API_BASE_URL = 'http://localhost:3001';
 
 /**
