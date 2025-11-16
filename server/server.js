@@ -9,8 +9,29 @@ dotenv.config();
 const app = express();
 const PORT = process.env.PORT || 3001;
 
+const allowedOrigins = [
+ 'https://edu-bridge-ai-plp-project.vercel.app'
+];
+
 // Middleware
-app.use(cors());
+app.use(cors(
+  {
+  origin: function(origin, callback) {
+    if (!origin) return callback(null, true);
+    
+    // Remove trailing slash for comparison
+    const normalizedOrigin = origin.replace(/\/$/, '');
+    const normalizedAllowed = allowedOrigins.map(o => o.replace(/\/$/, ''));
+    
+    if (normalizedAllowed.includes(normalizedOrigin)) {
+      callback(null, true);
+    } else {
+      callback(new Error('Not allowed by CORS'));
+    }
+  },
+  credentials: true
+}
+));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
