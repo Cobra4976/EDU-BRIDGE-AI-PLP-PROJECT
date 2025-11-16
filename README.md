@@ -2,7 +2,7 @@
 
 **Empowering African Students and Teachers with AI-Powered Personalized Learning**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://edu-bridge-ai-plp-project.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://edu-bridge-ai-plp-project.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Cobra4976/edu-bridge-ai-plp-project-.git)
 [![Pitch Deck](https://img.shields.io/badge/Pitch%20Deck-View-orange?style=for-the-badge&logo=googledrive)](https://www.canva.com/design/DAG43h-4BW0/RRYmcKlaI1WL6zD8b6vqNA/edit?utm_content=DAG43h-4BW0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
