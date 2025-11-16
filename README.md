@@ -4,7 +4,7 @@
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](YOUR_VERCEL_LINK_HERE)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](YOUR_GITHUB_LINK_HERE)
-[![Pitch Deck](https://img.shields.io/badge/Pitch%20Deck-View-orange?style=for-the-badge&logo=googledrive)](YOUR_PITCH_DECK_LINK_HERE)
+[![Pitch Deck](https://img.shields.io/badge/Pitch%20Deck-View-orange?style=for-the-badge&logo=googledrive)](https://www.canva.com/design/DAG43h-4BW0/RRYmcKlaI1WL6zD8b6vqNA/edit?utm_content=DAG43h-4BW0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 EduBridge AI is a comprehensive educational platform designed to address educational inequalities across Africa by providing personalized, AI-powered learning experiences for both students and teachers. Built specifically for African educational systems, it combines intelligent tutoring, skills assessment, community learning, and offline capabilities to ensure quality education reaches every learner, regardless of location or resources (SDG 4: Quality Education).
 
